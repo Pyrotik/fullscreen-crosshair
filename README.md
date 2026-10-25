@@ -2,6 +2,8 @@
 
 A lightweight fullscreen crosshair overlay for Linux.
 
+![Settings Preview](settings.png)
+
 Works over fullscreen applications and games — perfect when you need a permanent aiming reference.
 
 ## 🚀 v2.0.0 — Now Written in Rust!
